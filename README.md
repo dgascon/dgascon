@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤔I'm french developer backend Node.JS with over 1 year of professional experience.<br>🔭I'm currently working on my portfolio<br>🌱I'm currently learning Clean architecture, clean code, CQRS<br>
+🤔I'm french developer backend Node.JS.<br>🔭
 
 
 # 💻 Tech Stack:
